@@ -197,8 +197,8 @@ ___
 
 | Makie version | FerriteViz version | plasticity                                | incompressible-elasticity                 | heat-3D-70^3                                |
 |---------------|--------------------|-------------------------------------------|-------------------------------------------|---------------------------------------------|
-| master | mk/buffer 817048d |  17.866 ms (50939 allocations: 3.92 MiB) |  31.648 ms (98402 allocations: 7.66 MiB) | 6.100 s (38224 allocations: 1.20 GiB)
-| master        | mk/buffer ece12d9     | 17.272 ms (84065 allocations: 6.96 MiB)   | 40.331 ms (218408 allocations: 22.30 MiB) | 8.397 s (4152021 allocations: 1.69 GiB)     |
+| master        | mk/buffer 817048d  |  17.866 ms (50939 allocations: 3.92 MiB)  |  31.648 ms (98402 allocations: 7.66 MiB)  | 6.100 s (38224 allocations: 1.20 GiB)
+| master        | mk/buffer ece12d9  | 17.272 ms (84065 allocations: 6.96 MiB)   | 40.331 ms (218408 allocations: 22.30 MiB) | 8.397 s (4152021 allocations: 1.69 GiB)     |
 | master        | master             | 19.213 ms (101569 allocations: 8.10 MiB)  | 47.713 ms (317502 allocations: 28.85 MiB) | 15.122 s (11007449 allocations: 2.34 GiB)   |
 | v0.19.2       | master             | 28.692 ms (374363 allocations: 21.19 MiB) | 56.697 ms (557250 allocations: 40.28 MiB) | 70.740 s (603707659 allocations: 29.94 GiB) |
 
